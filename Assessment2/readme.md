@@ -1,3 +1,1 @@
-preview link
-
-https://krishnakiriti04.github.io/Guvi-Tasks/Assessment2/
+task 13
